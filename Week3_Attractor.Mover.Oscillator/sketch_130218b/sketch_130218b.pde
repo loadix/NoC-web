@@ -1,6 +1,8 @@
 // The Nature of Code
 // Daniel Shiffman
 // http://natureofcode.com
+// modified by Mónica Bate
+// Original code: NOC_2_7_attraction_many & NOC_3_07_oscillating_objects (File-->Examples-->Books-->Nature_of_Code
 
 // An array of objects
 Oscillator[] oscillators = new Oscillator[6];
